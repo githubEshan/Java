@@ -15,5 +15,7 @@ public class Scan {
 
         String majorAndYear = input.nextLine();
 
+        System.out.println("yo");
+
     }
 }
