@@ -1,3 +1,5 @@
+package space;
+
 import java.util.Scanner;
 
 public class OfficeSpaceCommission2 {

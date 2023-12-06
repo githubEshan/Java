@@ -1,3 +1,5 @@
+package loanInstallment;
+
 import java.util.Scanner;
 
 public class LoanInstallmentPlan {
