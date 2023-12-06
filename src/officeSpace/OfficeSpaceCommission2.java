@@ -1,4 +1,4 @@
-package space;
+package officeSpace;
 
 import java.util.Scanner;
 
@@ -39,6 +39,5 @@ public class OfficeSpaceCommission2 {
         System.out.println("Leasing fee per month: " + "$"+leasingFee);
         System.out.println("Leasing agreement for one year: " + "$" + leasingAgreement);
         System.out.println("Leasing commission for this agreement: " + "$" + leasingCommission);
-
     }
 }
